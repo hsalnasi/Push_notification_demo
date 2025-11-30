@@ -1,10 +1,10 @@
-# 📱 Push Notification Demo — Flutter + Firebase + Node.js
+# 📱 Push Notification Demo: Flutter + Firebase + Node.js
 
 This is a small demo project showing how to send push notifications from a backend to a Flutter app. It’s designed to be easy to test, easy to understand, and easy to extend later.
 
 ---
 
-## 🚀 What This Project Does
+##  What This Project Does ❓
 
 ### **Flutter App**
 - Connects to Firebase
